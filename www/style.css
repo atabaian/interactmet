@@ -1,0 +1,9 @@
+.tooltip{
+	font-size: 12px;
+    }
+    .tooltip_bg{
+	fill: white;
+	stroke: black;
+	stroke-width: 1;
+	opacity: 0.85;
+    }

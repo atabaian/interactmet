@@ -1,0 +1,206 @@
+<svg width="1099pt" height="1325pt" viewBox="0.00 0.00 1099.00 1325.00" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ 
+<g id="graph1"  style="opacity:1" class="graph" transform="scale(1 1) rotate(0) translate(4 1321)">
+<script type="text/ecmascript" xlink:href="func.js"/>
+
+<!-- rmnode::rnR01082::UNASSIGNED[default]::default -->
+<g id="node350" class="node"><title>UNASSIGNED[</title>
+<ellipse fill="orange" stroke="none" cx="333.138" cy="-1046.04" rx="0.0108" ry="0.0108"/>
+</g>
+
+<!-- pmnode::rnR01082::UNASSIGNED[default]::default -->
+<g id="node351" class="node"><title>UNASSIGNED</title>
+<ellipse fill="orange" stroke="none" cx="474.343" cy="-1024.94" rx="0.0108" ry="0.0108"/>
+</g>
+
+<!-- rmnode::rnR01082::UNASSIGNED[default]::default&#45;&#45;pmnode::rnR01082::UNASSIGNED[default]::default -->
+<g id="$rnR01082::3" class="edge"><title>rmnode::rnR01082::UNASSIGNED[default]::default&#45;&#45;pmnode::rnR01082::UNASSIGNED[default]::default</title>
+<a xlink:href="http://www.genome.jp/dbget-bin/www_bget?rn:R01082">
+<path fill="none" stroke="purple" stroke-width="8" d="M333.241,-1046.02C337.45,-1045.4 470.099,-1025.58 474.244,-1024.96"/>
+</a>
+</g>
+<!-- Fumarate::rnR01082::UNASSIGNED[default]::default -->
+<g id="node354" class="node"><title>Fumarate</title>
+<a xlink:href="http://www.genome.jp/dbget-bin/www_bget?rn:R01082">
+<ellipse fill="orange" stroke="darkorange" cx="359.122" cy="-1141.45" rx="6.5" ry="7"/>
+</a>
+
+</g>
+<!-- pmnode::rnR01082::UNASSIGNED[default]::default&#45;&#45;Fumarate::rnR01082::UNASSIGNED[default]::default -->
+<g id="$rnR01082::1" class="edge"><title>pmnode::rnR01082::UNASSIGNED[default]::default&#45;&#45;Fumarate::rnR01082::UNASSIGNED[default]::default</title>
+<a xlink:href="http://www.genome.jp/dbget-bin/www_bget?rn:R01082">
+<path fill="none" stroke="purple" stroke-width="8" d="M474.259,-1025.03C471.493,-1027.82 400.74,-1099.37 371.543,-1128.89"/>
+</a>
+<a xlink:href="http://www.genome.jp/dbget-bin/www_bget?rn:R01082">
+<polygon fill="purple" stroke="purple" points="366.272,-1124.26 364.217,-1136.3 376.226,-1134.11 366.272,-1124.26"/>
+</a>
+</g>
+<!-- H2O::rnR01082::UNASSIGNED[default]::default -->
+<g id="node356" class="node"><title>H2O</title>
+<a xlink:href="http://www.genome.jp/dbget-bin/www_bget?rn:R01082">
+<ellipse fill="orange" stroke="darkorange" cx="459.332" cy="-1030.33" rx="6.5" ry="7"/>
+</a>
+</g>
+<!-- pmnode::rnR01082::UNASSIGNED[default]::default&#45;&#45;H2O::rnR01082::UNASSIGNED[default]::default -->
+<g id="$rnR01082::2" class="edge"><title>pmnode::rnR01082::UNASSIGNED[default]::default&#45;&#45;H2O::rnR01082::UNASSIGNED[default]::default</title>
+<a xlink:href="http://www.genome.jp/dbget-bin/www_bget?rn:R01082">
+<path fill="none" stroke="purple" stroke-width="8" d="M474.174,-1025C474.123,-1025.02 474.06,-1025.04 473.987,-1025.07"/>
+</a>
+<a xlink:href="http://www.genome.jp/dbget-bin/www_bget?rn:R01082">
+<polygon fill="purple" stroke="purple" points="473.18,-1017.92 466.135,-1027.89 477.912,-1031.1 473.18,-1017.92"/>
+</a>
+</g>
+
+<!-- pnode::rnR01082::UNASSIGNED[default]::default -->
+<g id="node362" class="node"><title>UNASSIGNED</title>
+<a xlink:href="http://www.genome.jp/dbget-bin/www_bget?rn:R01082">
+<ellipse fill="orange" stroke="darkorange" cx="349.325" cy="-976.553" rx="12.25" ry="12.5"/>
+</a>
+</g>
+
+<!-- pmnode::rnR01082::UNASSIGNED[default]::default&#45;&#45;pnode::rnR01082::UNASSIGNED[default]::default -->
+<g id="$rnR01082::5" class="edge"><title>pmnode::rnR01082::UNASSIGNED[default]::default&#45;&#45;pnode::rnR01082::UNASSIGNED[default]::default</title>
+<a xlink:href="http://www.genome.jp/dbget-bin/www_bget?rn:R01082">
+<path fill="none" stroke="purple" stroke-width="8" d="M474.252,-1024.91C471.206,-1023.73 392.169,-993.136 361.411,-981.231"/>
+</a>
+</g>
+
+<!-- Malate::rnR01082::UNASSIGNED[default]::default -->
+<g id="node352" class="node"><title>Malate:</title>
+<a xlink:href="http://www.genome.jp/dbget-bin/www_bget?rn:R01082">
+<ellipse fill="orange" stroke="darkorange" cx="426.397" cy="-965.445" rx="6.5" ry="7"/>
+</a>
+</g>
+
+<!-- Malate::rnR01082::UNASSIGNED[default]::default&#45;&#45;rmnode::rnR01082::UNASSIGNED[default]::default -->
+<g id="$rnR01082::0" class="edge"><title>Malate::rnR01082::UNASSIGNED[default]::default&#45;&#45;rmnode::rnR01082::UNASSIGNED[default]::default</title>
+<a xlink:href="http://www.genome.jp/dbget-bin/www_bget?rn:R01082">
+<path fill="none" stroke="purple" stroke-width="8" d="M413.18,-976.866C387.901,-998.713 335.024,-1044.41 333.187,-1046"/>
+</a>
+<a xlink:href="http://www.genome.jp/dbget-bin/www_bget?rn:R01082">
+<polygon fill="purple" stroke="purple" points="417.853,-982.08 420.842,-970.245 408.699,-971.487 417.853,-982.08"/>
+</a>
+</g>
+
+<!-- rnode::rnR01082::UNASSIGNED[default]::default -->
+<g id="node359" class="node"><title>UNASSIGNED</title>
+<a xlink:href="http://www.genome.jp/dbget-bin/www_bget?rn:R01082">
+<ellipse fill="orange" stroke="darkorange" cx="388.25" cy="-1067.2" rx="12.25" ry="12.5"/>
+</a>
+</g>
+
+<!-- rnode::rnR01082::UNASSIGNED[default]::default&#45;&#45;rmnode::rnR01082::UNASSIGNED[default]::default -->
+<g id="$rnR01082::4" class="edge"><title>rnode::rnR01082::UNASSIGNED[default]::default&#45;&#45;rmnode::rnR01082::UNASSIGNED[default]::default</title>
+<a xlink:href="http://www.genome.jp/dbget-bin/www_bget?rn:R01082">
+<path fill="none" stroke="purple" stroke-width="8" d="M376.562,-1062.71C360.89,-1056.69 334.83,-1046.69 333.217,-1046.07"/>
+</a>
+</g>
+
+<g id="$rnR03270::4" class="edge"><title>rmnode::rnR03270::UNASSIGNED[default]::default&#45;&#45;pmnode::rnR03270::UNASSIGNED[default]::default</title>
+<a xlink:href="http://www.genome.jp/dbget-bin/www_bget?rn:R03270">
+<path id="rnR03270::4" fill="none" stroke="purple" stroke-width="8" d="M283.241,-96.0243C287.45,-95.3954 420.099,-75.5768 424.244,-74.9577"/>
+</a>
+</g>
+
+<!-- pmnode::rnR03270::UNASSIGNED[default]::default&#45;&#45;SAcetyldihydrolipoamideE::rnR03270::UNASSIGNED[default]::default -->
+<g id="$rnR03270::2" class="edge"><title>pmnode::rnR03270::UNASSIGNED[default]::default&#45;&#45;SAcetyldihydrolipoamideE::rnR03270::UNASSIGNED[default]::default</title>
+<a xlink:href="http://www.genome.jp/dbget-bin/www_bget?rn:R03270">
+<path id="rnR03270::2" fill="none" stroke="purple" stroke-width="8" d="M424.174,-75.0034C424.123,-75.0219 424.06,-75.0445 423.987,-75.0708"/>
+</a>
+<polygon fill="purple" stroke="purple" points="423.18,-67.9227 416.135,-77.8912 427.912,-81.0985 423.18,-67.9227"/>
+</g>
+
+
+
+<!-- pmnode::rnR03270::UNASSIGNED[default]::default&#45;&#45;TPP::rnR03270::UNASSIGNED[default]::default -->
+<g id="$rnR03270::3" class="edge"><title>pmnode::rnR03270::UNASSIGNED[default]::default&#45;&#45;TPP::rnR03270::UNASSIGNED[default]::default</title>
+<a xlink:href="http://www.genome.jp/dbget-bin/www_bget?rn:R03270">
+<path id ="rnR03270::3" fill="none" stroke="purple" stroke-width="8" d="M424.28,-74.9735C422.391,-75.9006 378.069,-97.6544 353.8,-109.566"/>
+<polygon fill="purple" stroke="purple" points="350.702,-103.289 344.809,-113.979 356.871,-115.856 350.702,-103.289"/>
+</a>
+</g>
+
+
+
+<!-- pmnode::rnR03270::UNASSIGNED[default]::default&#45;&#45;pnode::rnR03270::UNASSIGNED[default]::default -->
+<g id="$rnR03270::6" class="edge"><title>pmnode::rnR03270::UNASSIGNED[default]::default&#45;&#45;pnode::rnR03270::UNASSIGNED[default]::default</title>
+<a xlink:href="http://www.genome.jp/dbget-bin/www_bget?rn:R03270">
+<path id="rnR03270::6" fill="none" stroke="purple" stroke-width="8" d="M424.402,-74.8497C425.131,-73.7038 432.437,-62.218 438.143,-53.2472"/>
+</a>
+</g>
+
+<!-- LipoamideE::rnR03270::UNASSIGNED[default]::default&#45;&#45;rmnode::rnR03270::UNASSIGNED[default]::default -->
+<g id="$rnR03270::0" class="edge"><title>LipoamideE::rnR03270::UNASSIGNED[default]::default&#45;&#45;rmnode::rnR03270::UNASSIGNED[default]::default</title>
+<a xlink:href="http://www.genome.jp/dbget-bin/www_bget?rn:R03270">
+<path id="rnR03270::0" fill="none" stroke="purple" stroke-width="8" d="M370.842,-20.2448C351.079,-37.3243 285.24,-94.2232 283.187,-95.9971"/>
+</a>
+</g>
+
+<!-- SId_HydroxyethylThPP::rnR03270::UNASSIGNED[default]::default&#45;&#45;rmnode::rnR03270::UNASSIGNED[default]::default -->
+<g id="$rnR03270::1" class="edge"><title>SId_HydroxyethylThPP::rnR03270::UNASSIGNED[default]::default&#45;&#45;rmnode::rnR03270::UNASSIGNED[default]::default</title>
+<a xlink:href="http://www.genome.jp/dbget-bin/www_bget?rn:R03270">
+<path id="rnR03270::1" fill="none" stroke="purple" stroke-width="8" d="M307.254,-184.587C301.389,-163.053 283.703,-98.1121 283.152,-96.088"/>
+</a>
+</g>
+
+<!-- rnode::rnR03270::UNASSIGNED[default]::default&#45;&#45;rmnode::rnR03270::UNASSIGNED[default]::default -->
+<g id="$rnR03270::5" class="edge"><title>rnode::rnR03270::UNASSIGNED[default]::default&#45;&#45;rmnode::rnR03270::UNASSIGNED[default]::default</title>
+<a xlink:href="http://www.genome.jp/dbget-bin/www_bget?rn:R03270">
+<path id="rnR03270::5" fill="none" stroke="purple" stroke-width="8" d="M296.431,-38.9759C291.921,-58.3381 283.674,-93.7389 283.163,-95.9326"/>
+</a>
+</g>
+
+<!-- TPP::rnR03270::UNASSIGNED[default]::default -->
+<g id="node371" class="node"><title>TPP</title>
+<ellipse fill="orange"   cx="338.25" cy="-117.198" rx="6.5" ry="7"
+onclick="node_click(evt)" 
+onmousemove="ShowTooltip(evt, 'TPP')"
+onmouseeout="HideTooltip(evt)"/>
+</g>
+
+<!-- pnode::rnR03270::UNASSIGNED[default]::default -->
+<g id="node377" class="node"><title>UNASSIGNED</title>
+<ellipse fill="orange"   cx="445" cy="-42.4671" rx="12.25" ry="12.5"
+onclick="node_click(evt)" 
+onmousemove="ShowTooltip(evt, 'UNASSIGNED')"
+onmouseeout="HideTooltip(evt)"/>
+</g>
+
+<!-- LipoamideE::rnR03270::UNASSIGNED[default]::default -->
+<g id="node365" class="node"><title>LipoamideE</title>
+<ellipse id="E" fill="orange"   cx="376.397" cy="-15.4446" rx="6.5" ry="7"
+onclick="node_click(evt)" 
+onmouseover="ShowTooltip(evt, LipoamideE)"
+onmouseout="HideTooltip(evt)"/>
+</g>
+
+
+
+<!-- SId_HydroxyethylThPP::rnR03270::UNASSIGNED[default]::default -->
+<g id="node367" class="node"><title>SId_HydroxyethylThPP</title>
+<ellipse fill="orange"   cx="309.122" cy="-191.449" rx="6.5" ry="7"
+onclick="node_click(evt)" 
+onmousemove="ShowTooltip(evt, 'SId_HydroxyethylThPP')"
+onmouseeout="HideTooltip(evt)"/>
+</g>
+
+
+
+<!-- rnode::rnR03270::UNASSIGNED[default]::default -->
+<ellipse id="node367" fill="orange"   cx="299.325" cy="-26.5531" rx="12.25" ry="12.5"
+onclick="node_click(evt)" 
+onmousemove="ShowTooltip(evt, 'UNASSIGNED')"
+onmouseeout="HideTooltip(evt)"/>
+
+
+
+<!-- SAcetyldihydrolipoamideE:rnR03270::UNASSIGNED[default]::default -->
+<g id="node369" class="node"><title>SAcetyldihydrolipoamideE</title>
+<ellipse fill="orange"   cx="409.332" cy="-80.3347" rx="6.5" ry="7"
+onclick="node_click(evt)" 
+onmousemove="ShowTooltip(evt, 'SAcetyldihydrolipoamideE')"
+onmouseeout="HideTooltip(evt)"/>
+</g>
+
+</g>
+</svg>

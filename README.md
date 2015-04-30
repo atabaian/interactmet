@@ -117,7 +117,9 @@ library(dplyr)
 library(reshape2)
 library(tidyr)
 
-
+svg <- "file.svg" 
+svg_parsed <- xmlParse(svg)
+svg_list <- xmlToList(svg_parsed)
 
 is.NullOb <- function(x) is.null(x) | all(sapply(x, is.null)) 
 rmNullObs <- function(x) {

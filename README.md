@@ -1,7 +1,7 @@
 # interactmet
 BME capstone project; designed to decelop
 README for interactive interface with MetDraw
-Amir Tabaian
+
 
 The included software allows any manipulation of the MetDraw map. In terms of file structure the
 following should be observed 

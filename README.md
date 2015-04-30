@@ -16,7 +16,7 @@ www #folder for to house JavaScript files and svg
 WWW: 
 file.svg #file from MetDraw that one wishes to modify 
 SVGPan.js #SVGPan library that gives zoom and pan functionality 
-#Removed some of the unnecessary functions to better work with this project
+Removed some of the unnecessary functions to better work with this project
 
 
 

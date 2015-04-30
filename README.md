@@ -108,7 +108,8 @@ var arrow = TPP.getElementsByTagName("polygon")
 	 
 ######################################################################################
 
-In terms of generating the data to manipulate in R list.R is provided below
+In terms of generating the data to manipulate in R list.R is provided below; NullObs is a function created to remove null 
+entries from the list
 
 library(shiny)
 library(XML)
@@ -117,9 +118,8 @@ library(reshape2)
 library(tidyr)
 
 
-#getrid of null entries
 
-is.NullOb <- function(x) is.null(x) | all(sapply(x, is.null)) #
+is.NullOb <- function(x) is.null(x) | all(sapply(x, is.null)) 
 rmNullObs <- function(x) {
   x <- Filter(Negate(is.NullOb), x)
   lapply(x, function(x) if (is.list(x)) rmNullObs(x) else x)
@@ -162,13 +162,13 @@ rxn_tbl1 <- aggregate(list(Rxn_segs=rep(1, nrow(rxn_tbl1))), rxn_tbl1, length)
 
 ##########################################################################################
 
-#depending on what one wants to search for or modify the this can be done through a few commands
+Depending on what one wants to search for or modify the this can be done through a few commands
 
 selection <- met_tbl1 %>% filter(CONDITON) #Condition format can be any columns such as "Subsystem == SUBSYSTEM__3"
 selection_nodes <- selection$raw_id 
 
-#selection nodes is the variable that would then be passed into the session$sendCustomMessage
-#to the myCallbackHandler4 functions 
+selection nodes is the variable that would then be passed into the session$sendCustomMessage
+to the myCallbackHandler4 functions 
 
 for best usability take the condition from a search bar or table upon user input
 

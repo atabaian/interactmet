@@ -50,11 +50,42 @@ Shiny.addCustomMessageHandler("myCallbackHandler3",
 
 Shiny.addCustomMessageHandler("myCallbackHandler4",     
           function(met) {
+          
+         var S=document.getElementById("sv")
+          var SD=S.getSVGDocument()
+          TPP=SD.getElementById(met)
+          TPP.style.opacity="1";
+            
+
+
+          }
+    );
+
+Shiny.addCustomMessageHandler("myCallbackHandler5",     
+          function(met) {
       
           var S=document.getElementById("sv")
           var SD=S.getSVGDocument()
           TPP=SD.getElementById(met)
-          TPP.style.opacity="1";
+          var eli = TPP.getElementsByTagName("ellipse");
+          var eli1 = eli[0]
+          eli1.style.fill="red"
+            
+
+
+          }
+    );
+
+
+Shiny.addCustomMessageHandler("myCallbackHandler6",     
+          function(met) {
+          
+         var S=document.getElementById("sv")
+          var SD=S.getSVGDocument()
+          TPP=SD.getElementById(met)
+          var eli = TPP.getElementsByTagName("ellipse");
+          var eli1 = eli[0]
+          eli1.style.fill="orange"
             
 
 

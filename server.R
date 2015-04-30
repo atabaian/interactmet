@@ -15,14 +15,15 @@ shinyServer( function(input, output, session) {
 #   
 
   observe({
-    vis <- input$checkbox1
+    vis <- input$checkbox
+    
     print(vis)
     
     if(vis) {
     
-      for (i in 1:length(subsys3)){
-      session$sendCustomMessage(type='myCallbackHandler3', subsys3[i]) 
-      print(subsys3[i])
+      for (i in 1:length(sub3)){
+      session$sendCustomMessage(type='myCallbackHandler3', sub3[i])
+      print(sub3[i])
       }
       
     }
@@ -31,11 +32,37 @@ shinyServer( function(input, output, session) {
       
       if(!vis) {
         
-        for (i in 1:length(subsys3)){
-          session$sendCustomMessage(type='myCallbackHandler4', subsys3[i]) 
-          print(subsys3[i])
+        for (i in 1:length(sub3)){
+          session$sendCustomMessage(type='myCallbackHandler4', sub3[i]) 
         }
       }
+    
+    
+    
+  })
+  
+  observe({
+    hili <- input$checkbox1
+    
+    print(hili)
+    
+    if(hili) {
+      
+      for (i in 1:length(hilight)){
+        session$sendCustomMessage(type='myCallbackHandler5', hilight[i])
+        print(hilight[i])
+      }
+      
+    }
+    
+    print(hili)
+    
+    if(!hili) {
+      
+      for (i in 1:length(hilight)){
+        session$sendCustomMessage(type='myCallbackHandler6', hilight[i]) 
+      }
+    }
     
     
     
